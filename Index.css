@@ -2,8 +2,31 @@
  margin: 0%;
  padding: 0%;
 }
-p {
+Main {
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    color: blueviolet;
+}
+ paragraph {
     justify-content: center;
     text-align: center;
     color: red;
+}
+Article {
+    justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    color: blue;
+}
+first Paragraph {
+    justify-content: end;
+    text-align: end;
+    color: aqua;
+}
+class {
+    justify-content:space-between ;
+    text-align: center;
+    color: cyan;
 }
