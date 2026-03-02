@@ -4,7 +4,7 @@
 }
 Main {
     justify-content: center;
-    text-align: center;
+    text-align: space-around;
     font-size: large;
     color: blueviolet;
 }
